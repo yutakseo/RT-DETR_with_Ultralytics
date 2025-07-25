@@ -1,0 +1,1 @@
+python /workspace/ultralytics/__inference__.py

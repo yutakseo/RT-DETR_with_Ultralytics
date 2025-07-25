@@ -1,4 +1,4 @@
-from .ultralytics.ultralytics import RTDETR
+from ultralytics import RTDETR
 from datetime import datetime
 today = datetime.today().strftime("%y.%m.%d")
 
